@@ -1,0 +1,1 @@
+To start the Nextcloud instance run `docker-compose up -d`. After some time it will be available through `localhost:8080`, this takes longer the first time. Then run `./config.sh` to apply the theme and other default settings.
